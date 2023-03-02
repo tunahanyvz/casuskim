@@ -1,0 +1,38 @@
+# GROUP_NAME: Default
+# GROUP_DESCRIPTION: The default pack with all standard locations
+Araba Tamircisi: Yönetici, Lastikçi, Motor Sürücüsü, Araba Sahibi, Araba Yıkama Operatörü, Elektrikçi, Oto Tamircisi
+Askeri Üst: Asker Kaçağı, Albay, Doktor, Asker, Keskin Nişancı, Memur, Tank Mühendisi, İnzibat
+Banka: Zırhlı Araç Sürücüsü, Banka Müdürü, Danışman, Müşteri, Hırsız, Güvenlik Görevlisi, Giriş Memuru, Soyguncu
+Denizaltı: Aşçı, Komutan, Sonar Uzmanı, Elektronik Teknikeri, Denizci, Radyo Operatörü, Rotacı
+Film Stüdyosu: Dublör, Ses Mühendisi, Kameraman, Yönetmen, Kostüm Sorumlusu, Aktör, Yapımcı
+Hastane: Hemşire, Doktor, Anestezi Uzmanı, Stajyer, Hasta, Terapist, Cerrah, Temizlikçi
+Korsan Gemisi: Aşçı, Denizci, Köle, Topçu, Tutsak, Miço, Kaptan
+Kumarhane: Barmen, Güvenlik Yöneticisi, Arman, Yönetici, Yankesici, Krupiyer, Kumarbaz, Owner
+Kumsal: Garson, Sörfçü, Cankurtaran, Hırsız, Tatilci, Fotoğrafcı, Dondurmacı
+Okul: Beden Eğitimi Öğretmeni, Öğrenci, Müdür, Güvenlik Görevlisi, Hademe, Yemekhane Sorumlusu, Kantinci
+Otel: Giriş Görevlisi, Güvenlik Görevlisi, Müdür, Temizlikçi, Müşteri, Barmen, Valiz Taşıyıcı
+Polis Merkezi: Dedektif, Avukat, Gazeteci, Kriminal Uzman, Arşiv Sorumlusu, Devriye Memuru, Suçlu
+Restoran: Müzisyen, Müşteri, Giriş Sorumlusu, Kasiyer, Şef, Gurme, Garson
+Sirk Çadırı: Akrobat, Hayvan Eğiticisi, Sihirbaz, İzleyici, Ateş Yutucu, Palyoça, Hokkabaz
+Süpermarket: Müşteri, Kasiyer, Kasap, Temizlikçi, Güvenlik Görevlisi, Tadımlık Stand Görevlisi, Raf Düzenleyici
+Tiyatro: Vestiyer, Suflör, Kasiyer, İzleyici, Yönetmen, Aktör, Sahne Görevlisi
+Uçak: Birinci Sınıf Yolcu, Özel Uçuş Polisi, Teknik Personel, Ekonomik Sınıfı Yolcusu, Hostes, Yardımcı Pilot, Kaptan Pilot
+Yolcu Gemisi: Zengin Yolcu, Aşçı, Kaptan, Barmen, Müzisyen, Garson, Teknik Personel
+Yolcu Treni: Teknik Personel, Gümrük Memuru, Hostes, Yolcu, Restoran Şefi, Mühendis, Kömürcü
+Üniversite: Mezun Öğrenci, Profesör, Dekan, Psikolog, Fotokopici, Öğrenci, Bine Sorumlusu
+İş Partisi: Animatör, Yönetici, İstenmeyen Misafir, Ev Sahibi, Sekreter, Muhasebeci, Kurye, Garson
+Benzin İstasyonu: Araba Meraklısı, Görevli, Market Sahibi, Müşteri, Araba Yıkayıcı, Kasiyer, Müşteri, Görevli
+Düğün: Yüzük Taşıyıcı, Damat, Gelin, İmam, Fotoğrafçı, Çiçekçi Kız, Gelinin Babası, Düğün Bozan, Sağdıç, Orkestra
+Gece Klübü: Normal Kişi, Barmen, Koruma, Dansör, Dostcanlısı, Parti Kızı, Manken, Kaslı Adam, Sarhoş
+Hapishane: Yanlış Suçlanmış Kişi, Mobese Kamera Denetmeni, Gardiyan, Ziyaretçi, Avukat, Temizlikçi, Hapishane Bekçisi, Suçlu, Ceza Memuru
+Hayvanat Bahçesi: Hayvan Bakıcı, Ziyaretçi, Fotoğrafçı, Çocuk, Veteriner, Turist, Yemek Satıcısı, Biletçi, Hayvan Bakıcısı
+Huzurevi: Akraba, İskambil Oynayan, Yaşlı Kişi, Hemşire, Temizlikçi, Aşçı, Kör Kişi, Psikolog, Camdan Bakan
+Kömür Madeni: Güvenlik Denetmeni, Madenci, Denetmen, Çöp Kamyonu Sürücüsü, Matkap Kullanan, Koordinatör, Patlayıcı Mühendisi, Madenci, Katı Atık Mühendisi
+Kütüphane: Yaşlı Adam, Gazeteci, Yazar, Gönüllü, Çokbilmiş, Öğrenci, Kütüphaneci, Çok Konuşan, Kitap Kurdu
+Liman: Yükleyici, Kızgın Yaşlı Korsan, Kaptan, Denizci, Balıkçı, İhracatçı, Kargo Takipçisi, Kargo Müfettişi
+Lunapark: Makina Operatörü, Ebeveyn, Yemek Satıcısı, Biletçi, Mutlu Çocuk, Sinir Bozucu Çocuk, Ergen, Temizlikçi, Güvenlik
+Metro: Turist, Metro Operatörü, Bilet Kontrolcüsü, Hamile Bayan, Cep Hırsızı, Temizlikçi, İş Adamı, Bilet Satıcısı, Yaşlı Bayan
+Mezarlık: Rahip, Ürkütücü Kız, Mezar Hırsızı, Şair, Ağıt Yakan, Kapı Gardiyanı, Ölmüş Kişi, Akraba, Çiçek Satan, İmam
+Oyun Fuarı: Blog Muhabiri, Cosplayci, Oyuncu, Katılımcı, Koleksiyoncu, Çocuk, Koruma, İnek, Utangaç
+Stadyum: Hakem, Atlet, Futbolcu, Yorumcu, Seyirci, Güvenlik Görevlisi, Holigan Lideri, Davulcu, Su Şişesi Fırlatan
+İnşaat Alanı: Firari Bebek, Müteahhit, Vinç Sürücüsü, Kaçak Giren, Güvenlik Şefi, Elektrikçi, Mühendis, Mimar, İnşaat İşçisi
