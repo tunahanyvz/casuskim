@@ -165,7 +165,8 @@ export default class EntryForm extends React.Component<FormProps, FormState> {
             ) : null}
           </div>
         </div>
+       <h6 className="footertitle2">Amoung Us Türkiye | #TunahanYvz1243</h6>
       </div>
-    );
+    )
   }
 }
