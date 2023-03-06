@@ -15,7 +15,7 @@ import { Generator } from "../id";
 import { Room as GameRoom } from "../game/room";
 import { server as appServer } from "../main";
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 80;
 const app = express();
 export const server = http.createServer(app);
 
@@ -513,6 +513,6 @@ app.use(express.static(path.resolve(__dirname, "../../frontend/build")));
 app.use(roomRouter);
 app.use(apiRouter);
 
-server.listen(5000, () => {
+server.listen(80, () => {
   console.log(`Server running on port ${PORT}`);
 });

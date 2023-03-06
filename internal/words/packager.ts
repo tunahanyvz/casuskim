@@ -3,9 +3,7 @@ import * as words from "./words";
 import * as suggestions from "./suggestions";
 
 export const DEFAULT = LoadStaticAsset("/default.txt");
-export const DEFAULT_PLUS = LoadStaticAsset("/default-plus.txt");
-export const SPYSCHOOL = LoadStaticAsset("/spyschool.txt");
-export const CHRISTMAS = LoadStaticAsset("/christmas.txt");
+
 
 // DO NOT MODIFY OR CREATE PACKS WITH THE NAME 'SUGGESTIONS'
 // RESERVED FOR QUESTION SUGGESTIONS
